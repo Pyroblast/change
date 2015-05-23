@@ -1,4 +1,4 @@
-Change some string
+Change some strings
 ---------------------------------------
 
 ### Exercise
